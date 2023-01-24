@@ -113,3 +113,9 @@ unban  - to unban a use
 
 
 ### Fᴏʀ Tɢ Gʀᴏᴜᴘs Yᴏᴜ Cᴀɴ Eᴅɪᴛ
+# Codes
+-Eva Maria
+-Piro
+# OWNER
+I Don Like Publicity 😙😂💔
+
