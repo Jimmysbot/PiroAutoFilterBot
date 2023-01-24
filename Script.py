@@ -3,15 +3,16 @@ class script(object):
 
     HELP_TXT = """Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/Dcenimaunverse'>DCENIMAUNVERSE</a> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ /START. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ """
 
-    ABOUT_TXT = """⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟/n/n """
+    ABOUT_TXT = """⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
+<b>• ꜰᴜʟʟ ɴᴀᴍᴇ : ꪖꪹకꫝꪖᦔ</b>
+<b>• Uꜱᴇʀ ɴᴀᴍᴇ : @Arskottu
+• Usᴇʀ ɪᴅ :</b> <code>5618450142</code>
+    
+<b>∂σи'т вє αfяαι∂ σf вєιиg ∂ιffєяєит, вє αfяαι∂ σf вєιиg тнє ѕαмє αѕ єνєяуσиє єℓѕє</b>"""
 
-    SOURCE_TXT = """<b>NOTE:</b>
-Special Thanks to LUCIFER for the codes 
-<b>DEV:</b>
+   SOURCE_TXT = """<b> Bʀᴏᴏ Wʜʏ ...
 
-- <a href=https://t.me/rithesh_rkrm_17>『ᴘɪʀᴏ』</a>
-
-- Source - https://github.com/ritheshrkrm/PiroAutoFilterBot""" #please don't change repo link give credit :)
+Rᴇʟᴀsᴇɪɴɢ..ᴘʟᴀɴ..:https://t.me/+bDwzqLW0ZeZiYTQ1"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -163,20 +164,22 @@ Name <b>: {}</b>
 Message <b>: {}</b>"""
 
     CAPTION = """
-📂 <em>File Name</em>: <code>PIRO|{file_name}</code> 
+📂 <em>File Name</em>: <code>@DCENIMAS__{file_name}</code> 
 
 🖇 <em>File Size</em>: <code>{file_size}</code> 
 
-❤️‍🔥 </i>Join</i> [𝗕𝗟𝗔𝗦𝗧𝗘𝗥 𝗟𝗜𝗡𝗞𝗭](https://t.me/blaster_linkz)  
+<b>[📥ＵＰＬＯＡＤ ＢＹ](https://t.me/Dcenimaunverse)</b>"""
 
-🖥 <i>Requests</i> - ||@raixpiro_bot|| """
+    IMDB_TEMPLATE_TXT = """ <b> {title} </b>
 
-    IMDB_TEMPLATE_TXT = """
-🏷 𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> 
-🔮 𝖸𝖾𝖺𝗋: {year} \n⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10  
-🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres} 
+<b> ⭐️{rating} | ⏰{runtime} | 📆{release_date} </b>
 
-🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『ᴘɪʀᴏ』](t.me/rai_info17)"""
+<b>● {genres}</b>
+<b>● {languages} </b>
+
+📖 sᴛᴏʀʏ : <i> {plot} </i>
+
+<b>©@DCENIMAS </b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
